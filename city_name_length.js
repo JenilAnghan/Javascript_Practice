@@ -9,5 +9,7 @@ function getCityLength(length){
         return e.city;
     })
     console.log("cities",cities);
-}
+    }
 
+    const x = getCityLength(20)
+    console.log("x",x)

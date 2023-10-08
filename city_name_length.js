@@ -3,13 +3,13 @@ const DATA = require("../React_Practice/data.json")
 
 function getCityLength(length){
     let data = DATA.filter((ele) => {
-        return ele.city.length > length
+        return ele.city.length > length;
     });
     const cities = data.map((e) => {
         return e.city;
     })
-    console.log("cities",cities);
+    return cities;
     }
 
-    const x = getCityLength(20)
+    const x = getCityLength(14)
     console.log("x",x)

@@ -11,5 +11,5 @@ function getCityLength(length){
     return cities;
     }
 
-    const x = getCityLength(14)
-    console.log("x",x)
+    const x = getCityLength(14);
+    console.log("x",x);

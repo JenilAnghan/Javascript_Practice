@@ -1,2 +1,2 @@
-# React_Practice
-React Practice Work
+# Javascript_Practice
+Javascript Practice Work

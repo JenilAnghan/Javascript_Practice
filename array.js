@@ -30,8 +30,22 @@
 // 3. change a value of 6th index with 100
 
 // const Array = [1,2,3,4,5,6,7,8,9];
-
+ 
 
 // Array[9] = 90;
 
 // console.log(Array)
+
+
+// 4. print a array till element value not grater then 100
+
+
+
+// const Array = [20, 30, 65, 100, 90, 80, 10, 120];
+
+// for (let i = 0; i < Array.length; i++) {
+//   if (Array[i] > 100) {
+//     break;
+//   }
+//   console.log(Array[i]);
+// }

@@ -1,5 +1,7 @@
 // -> give the list which variable name not works in js
 
+
+
 // 1. let a=0
 // 2. let "a"=0
 // 3. let 'a'=0

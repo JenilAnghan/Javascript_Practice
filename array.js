@@ -25,3 +25,13 @@
 //     console.log(Array1[i])
 // }
 
+
+
+// 3. change a value of 6th index with 100
+
+// const Array = [1,2,3,4,5,6,7,8,9];
+
+
+// Array[9] = 90;
+
+// console.log(Array)

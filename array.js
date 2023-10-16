@@ -62,7 +62,25 @@
 // 7. add  99 in end of array
 
 
-let Array = [1,2,3,4,5,6,7,8,9];
-Array.push(99);
+// let Array = [1,2,3,4,5,6,7,8,9];
+// Array.push(99);
 
-console.log(Array)
+// console.log(Array)
+
+
+// 8. remove 1 element from start of  array
+
+
+// let Array = [1,2,3,4,5,6,7,8,9];
+
+// Array.shift();
+// console.log(Array)
+
+
+// 9. remove 1 element from end of array
+
+
+// let Array = [1,2,3,4,5,6,7,8,9];
+
+// Array.pop();
+// console.log(Array)

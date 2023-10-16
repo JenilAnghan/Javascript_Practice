@@ -48,3 +48,21 @@
 // const Array1 = Array.map((element) => element + 1);
 
 // console.log(Array1);
+
+// 6. add 0 in start of array
+
+
+// let Array = [1,2,3,4,5,6,7,8,9];
+//  Array.unshift(0);
+
+//  console.log(Array)
+
+
+
+// 7. add  99 in end of array
+
+
+let Array = [1,2,3,4,5,6,7,8,9];
+Array.push(99);
+
+console.log(Array)

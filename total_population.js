@@ -7,6 +7,7 @@ DATA.map((objEle) => {
   if (index === -1) {
     // console.log("if --------called------>");
     arr.push({
+      
       state: objEle.state_name,
       population: +objEle.population,
     });

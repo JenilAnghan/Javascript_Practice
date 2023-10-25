@@ -84,3 +84,5 @@ let familytree = {
         },
     ]
 }
+
+console.log("familytree",familytree)
